@@ -1,0 +1,17 @@
+{
+    "name": "mpyw/hatena-bookmark-cleaner",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mpyw",
+            "email": "ryosuke_i_628@yahoo.co.jp"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mpyw\\HatenaBookmarkCleaner\\": "lib/"
+        }
+    }
+}
